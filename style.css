@@ -13,6 +13,11 @@ h1 {
   font-weight: 800;
 }
 
+h3 {
+  color: rgb(3, 85, 3);
+  text-transform: uppercase;
+}
+
 .banner {
   height: 450px;
   background-image: url('img/cactus.jpg');
