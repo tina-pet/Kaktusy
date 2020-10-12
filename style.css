@@ -16,6 +16,7 @@ h1 {
 h3 {
   color: crimson;
   text-transform: uppercase;
+  background-color: red;
 }
 
 .banner {
